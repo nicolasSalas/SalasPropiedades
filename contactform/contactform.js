@@ -96,7 +96,7 @@ jQuery(document).ready(function($) {
     var template_params = {
       "reply_to": str[1].value,
       "from_name": str[0].value,
-      "to_name": 'Cintya',
+      "to_name": 'Patricio',
       "message_html": str[3].value
    }
    
